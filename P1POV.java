@@ -1,2 +1,2 @@
-public class P1POV {
+public class P1POVOFP2 {
 }
